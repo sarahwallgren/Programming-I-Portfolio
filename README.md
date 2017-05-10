@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Programming 1 Portfolio
+## Sarah Wallgren 2017
 
 You can use the [editor on GitHub](https://github.com/sarahwallgren/Programming-I-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
