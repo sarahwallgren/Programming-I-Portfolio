@@ -1,6 +1,7 @@
 ## Programming 1 Portfolio
 ## Sarah Wallgren 2017
 
+## Python: 
 Inline-style: 
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/pic.png "Logo Title Text 1")
 
