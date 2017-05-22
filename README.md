@@ -3,7 +3,7 @@
 
 ## Python: 
 Inline-style: 
-![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/pic.png "Logo Title Text 1")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/Catagoriespage.png "Home Page 1")
 
 
 You can use the [editor on GitHub](https://github.com/sarahwallgren/Programming-I-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
