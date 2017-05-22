@@ -4,7 +4,13 @@
 ## Python:
   Final Project - Jeopardy Game:
   
-For our final project, we decided to do a Jeopardy Game. We decided to have nine categories, with five questions in each. Instead of individually choosing which question in the categories the player wants, the questions will automatically play when a category is choosen. Created by Sarah Wallgren, Morgan Hurley, and Katya Pogodaeva.
+For our final project, we decided to do a Jeopardy Game. We decided to have nine categories, with five questions in each. Instead of individually choosing which question in the categories the player wants, the questions will automatically play when a category is choosen. Created by Sarah Wallgren, Morgan Hurley, and Katya Pogodaeva. Project is unfinished. 
+
+Mockup:
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Untitled Diagram.pdf "Mockup")
+This was the original mockup for the project. It shows how we wanted the categories page to look, but the final look of the categories page is now different. 
+
+
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/CatagroriesPage.png "Home Page 1")
 This is the categories page for the Jeopardy Game. From this page, it leads you to the selected categories questions. 
 
