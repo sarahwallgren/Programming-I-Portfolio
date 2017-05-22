@@ -2,7 +2,7 @@
 ## Sarah Wallgren 2017
 
 ## Python:
-      Final Project - Jeopardy Game:
+  Final Project - Jeopardy Game:
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/CatagroriesPage.png "Home Page 1")
 This is the categories page for the Jeopardy Game. From this page, it leads you to the selected categories questions. 
 
