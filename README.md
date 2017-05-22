@@ -9,11 +9,15 @@ For our final project, we decided to do a Jeopardy Game. We decided to have nine
 Mockup:
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Untitleddiagram.png "Mockup")
 
-This was the original mockup for the project. It shows how we wanted the categories page to look, but the final look of the categories page is now different. 
+  This was the original mockup for the project. It shows how we wanted the categories page to look, but the final look of the categories page is now different. Also the general look of the question pages. 
 
-
+Screenshots:
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/CatagroriesPage.png "Home Page 1")
 This is the categories page for the Jeopardy Game. From this page, it leads you to the selected categories questions. 
+
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/Authorfile1.png "ai1")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/Authorfile2 "ai2")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/Authorfile3.png "ai3")
 
 
 You can use the [editor on GitHub](https://github.com/sarahwallgren/Programming-I-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
