@@ -8,6 +8,7 @@ For our final project, we decided to do a Jeopardy Game. We decided to have nine
 
 Mockup:
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Untitleddiagram.png "Mockup")
+
 This was the original mockup for the project. It shows how we wanted the categories page to look, but the final look of the categories page is now different. 
 
 
