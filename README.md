@@ -54,10 +54,29 @@ The pyramid class.
 
 The sphere class.
 
-You can use the [editor on GitHub](https://github.com/sarahwallgren/Programming-I-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Java:
+
+## Calculator:
+
+We created a working calculator with a four special functions.
+
+Source code:
+
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/calcClass1.png "cc1")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/calcClass2.png "cc2")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/calcClass3.png "cc3")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/calcClass4.png "cc4")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/calcClass5.png "cc5")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/calcClass6.png "cc6")
+
+This is the class the creates the functionality of the calculator, and where are the buttons are placed. 
+
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/buttonClass1.png "bc1")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/buttonClass2.png "bc2")
+
+This gives functionality to the buttons on the calculator. 
 
 
 ### Markdown
