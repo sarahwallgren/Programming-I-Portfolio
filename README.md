@@ -78,6 +78,34 @@ This is the class the creates the functionality of the calculator, and where are
 
 This gives functionality to the buttons on the calculator. 
 
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/runningCalc.png "rc")
+
+This is what the calculator looks like running. 
+
+## Bear Game:
+
+This game is a altered version of the spaceship game, but using bears and apples.
+
+Source Code:
+
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/bearGame1.png "bg1")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/bearGame2.png "bg2")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/bearGame3.png "bg3")
+
+This code creates the look of the game.
+
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/bear1.png "b1")
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/bear2.png "b2")
+
+The bear class.
+
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/animalClass.png "ac")
+
+The animal class.
+
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/wormClass.png "wc")
+
+The worm class. 
 
 ### Markdown
 
