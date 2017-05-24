@@ -34,10 +34,24 @@ Source Code:
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/Sourcecode2.png "sc1")
 This is the source code for our project. Again, our project is currently unfinished. I wrote all the source code seen above. Most of the game lies inside of the mouseClicked() method.
 
+## Shape Tester:
+For this project, we wrote code that allowed the user to imput the dimensions of either a pyramid, box, or sphere and it would return the the surface area of that shape or the volume. 
+
+Source code:
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/shapeTesterClass.png "stc")
+This is the class that employs and shows the functionality of all the classes.
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/box.png "box")
+The box class.
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/pyramid.png "p1")
+The pyramid class.
+![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/sphere.png "s1")
+The sphere class.
 
 You can use the [editor on GitHub](https://github.com/sarahwallgren/Programming-I-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
