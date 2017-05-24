@@ -1,6 +1,8 @@
 ## Programming 1 Portfolio
 ## Sarah Wallgren 2017
 
+Email: sarahkaywallgren@gmail.com
+
 ## Python:
   Final Project - Jeopardy Game:
   
