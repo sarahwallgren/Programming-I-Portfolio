@@ -41,12 +41,15 @@ Source code:
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/shapeTesterClass.png "stc")
 
 This is the class that employs and shows the functionality of all the classes.
+
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/box.png "box")
 
 The box class.
+
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/pyramid.png "p1")
 
 The pyramid class.
+
 ![alt text](https://sarahwallgren.github.io/Programming-I-Portfolio/Screenshots/sphere.png "s1")
 
 The sphere class.
